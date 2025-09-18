@@ -1,1 +1,2 @@
 Hello, Git world!
+Update from new-feature2
